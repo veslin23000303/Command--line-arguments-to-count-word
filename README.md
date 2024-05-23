@@ -22,8 +22,8 @@ Close the file pointer and end the program.
 
 ## PROGRAM:
 ```python
-Developed by: Antony Abishek K
-Register no: 212223240009
+Developed by: VESLIN ANISH A
+Register no: 212223240175
 import sys
 fp=open(sys.argv[1])
 wordcount=0
@@ -34,8 +34,8 @@ print("Total no of words in file is",wordcount)
 fp.close()
 ```
 ### OUTPUT:
+![Screenshot 2024-05-23 155704](https://github.com/veslin23000303/Command--line-arguments-to-count-word/assets/151148539/3a58bd88-476f-4cdf-9b10-29b75e015a15)
 
-![image](https://github.com/mercyarulappan/Command--line-arguments-to-count-word/assets/149233730/8f64ac57-532c-489e-85da-ca18b28b74e0)
 
 
 ## RESULT:
